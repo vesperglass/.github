@@ -20,3 +20,7 @@ Useful tools, experiments, and static sites. Each project should explain what it
 - Leave the next person a good map.
 
 Glad you stopped by. There’s probably something interesting to make.
+
+## Visit the field guide
+
+Explore the [Vesperglass Field Guide](https://vesperglass.github.io) for project pages, working principles, and field notes.
